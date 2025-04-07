@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mihai Falcusan</h1>
+<p align="center">🧪 Quality Assurance Tester | 🔍 Detail-Oriented | 💡 Always Learning</p>
 
-<!--
-**mik3rinho/mik3rinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 I specialize in **manual software testing**
+- 🔍 Passionate about finding bugs before users do
+- 📚 Currently learning more about **test automation tools and best practices**
+- 🤝 Open to collaborating on testing projects or QA-related initiatives
+- 📫 Reach me at: mfalcusan40@gmail.com
+
+---
